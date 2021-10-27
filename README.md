@@ -1,10 +1,10 @@
 # Quantifying the influence of forest and snow characteristics on avalanche protection of forested slopes
 
-This research proposes a novel method allowing to simulate both the release and flow of the avalanche at the slope scale and the interaction between the snow and the forest at every individual tree.
+This research proposes a novel method allowing to simulate both the release and flow of the avalanche at the slope scale and the interaction between the snow and the forest at every individual tree. For futher details, the peer-reviewed research proposal is in the repository at your disposal.
 
 ## Description
 
-The code performs a set of tasks to visualize the first results of the avalanche behaviour
+The code performs a set of tasks to visualize the first results of the avalanche behaviour.
 
 ## Getting Started
 
