@@ -110,4 +110,4 @@ Francesc Molné Correig (francesc.molne@epfl.ch)
 
 ## License
 
-This project is licensed under the [NAME HERE] License
+This project is licensed under the GNU GENERAL PUBLIC LICENSE License
